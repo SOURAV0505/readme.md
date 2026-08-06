@@ -1,57 +1,105 @@
-<!--h1 without bottom border-->
-<h1 style="display: inline-block">Hello 👋, I'm Sourav Singh <br /> A frontend developer From India. 🇮🇳 </h1>
-
-<!--Intro start-->
-<div>
-  
-  🚀 I specialize in  development, and I'm proficient in building robust and scalable applications. Currently, I'm diving into **Next.js** and enhancing my skills in this exciting technology. <br />
-  📧 Feel free to reach out via email: **ss5929223@gmail.com**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Sourav+Singh;Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+robust+%26+scalable+apps;Currently+learning+Next.js" alt="Typing SVG" />
 </div>
-<!--Intro end-->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Technologies & Tools I Know👨🏻‍💻</h2></summary>
-  </ul>
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
-<!--tech stack icons-->
-<p>
+
+<br/>
+
+### 👨‍💻 About Me
+
+🚀 I specialize in development and I'm proficient in building **robust and scalable applications**.  
+Currently diving deep into **Next.js** and enhancing my skills in this exciting technology.
+
+📧 Feel free to reach out: **ss5929223@gmail.com**
+
+<br/>
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vscode,git&theme=dark" />
   </a>
 </p>
 
-<div>
-  
+<br/>
 
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRV46300618&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRV46300618&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRV46300618&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<br/>
 
-<!--icons and links-->
-<p>
-<a href="[https://www.linkedin.com/in/souravsingh552002/](https://www.linkedin.com/in/souravsingh552002/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="[https://x.com/SRV46300618](https://x.com/SRV46300618)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SRV46300618&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </p>
 
+<br/>
 
+---
 
-<!--profile visit count-->
-<div>
-  
-[![](https://visitcount.itsvg.in/api?id=Kviraj722&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/souravsingh552002/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/SRV46300618" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ss5929223@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kviraj722&icon=3&color=6" alt="Profile Views"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SRV46300618&style=flat-square&color=blueviolet" alt="Profile views"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile! Have a great day ✨</i>
+</p>
